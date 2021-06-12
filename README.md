@@ -4,4 +4,4 @@
 3) Given an invalid input, the program will request another one.
 4) The game ends after all the disks are in one peg, rather than the first one.
 5) At the end, it shows the amount of moves were made.
-6) The variables and functions are named in portuguese, they will be changed soon.
+6) The variables, functions and comments are in portuguese, they will be changed soon.
